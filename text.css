@@ -2,7 +2,7 @@
 
 
 body{
-    background-color: blue;
+    background-color:hsl(225, 100%, 94%);
     justify-content: center;
     align-items: center;
     display: flex;
@@ -12,7 +12,7 @@ body{
     justify-content: center;
     align-items: center;
     color: rgb(92, 92, 133);
-    margin: 15rem;
+    margin: 1rem;
     
 }
 
